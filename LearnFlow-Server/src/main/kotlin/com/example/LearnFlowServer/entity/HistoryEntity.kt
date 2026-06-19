@@ -1,0 +1,26 @@
+package com.example.LearnFlowServer.entity
+
+import jakarta.persistence.*
+
+@Entity
+@Table(name = "history")
+data class HistoryEntity(
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    val id: Long = 0,
+
+    @Column(name = "user_id")
+    val userId: Long,
+
+    @Column(name = "video_title")
+    val videoTitle: String,
+
+    @Column(name = "video_url")
+    val videoUrl: String,
+
+    val position: Long,
+
+    @Column(name = "update_time")
+    val updateTime: Long
+)

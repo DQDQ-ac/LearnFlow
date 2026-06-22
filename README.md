@@ -160,13 +160,48 @@ MySQL 数据库
 
 ## 截图说明
 
-（此处可补充应用截图）
+## 界面展示
 
-- 视频播放页面
-- <img width="185" height="303" alt="image" src="https://github.com/user-attachments/assets/e17b2fc2-200a-4e5e-9945-9c177fce4868" />
+### 用户系统
 
-- 任务管理页面  
-- 学习热力图页面  
+<table>
+  <tr>
+    <td align="center">
+      登录页面<br><br>
+      <img src="https://github.com/user-attachments/assets/e17b2fc2-200a-4e5e-9945-9c177fce4868" width="180"/>
+    </td>
+    <td align="center">
+      注册页面<br><br>
+      <img src="https://github.com/user-attachments/assets/ef47c0bd-a9c6-455d-86c1-01a8cfc484ff" width="180"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 视频学习
+
+<table>
+  <tr>
+    <td align="center">
+      视频播放页面<br><br>
+      <img src="https://github.com/user-attachments/assets/5e44a08b-7fa4-491d-8b69-f2d668a8b2bd" width="180"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 学习数据统计
+
+<table>
+  <tr>
+    <td align="center">
+      学习热力图页面<br><br>
+      <img src="https://github.com/user-attachments/assets/b9deec13-9079-460c-8d44-e24bc5ddd2c2" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
